@@ -1,5 +1,5 @@
 === Beer Directory ===
-Contributors: RescueThemes
+Contributors: rescuethemes
 Tags: beer, directory, brewery, homebrew, brew, hops, malt, yeast
 Stable tag: 0.0.1
 Requires at least: 4.0
