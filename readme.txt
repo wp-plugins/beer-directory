@@ -1,7 +1,7 @@
 === Beer Directory ===
 Contributors: rescuethemes
 Tags: beer, directory, brewery, homebrew, brew, hops, malt, yeast
-Stable tag: 0.0.1
+Stable tag: 0.0.2
 Requires at least: 4.0
 Tested up to: 4.1
 License: GPLv2 or later
@@ -62,7 +62,8 @@ The image assigned as the "featured image" in the beer post will automatically d
 
 == Changelog ==
 
-= 0.0.1 =
-Release Date: March 31, 2015
+= 0.0.2 = April 20, 2015
+* Added .pot translation file
 
+= 0.0.1 = March 31, 2015
 * Initial release
